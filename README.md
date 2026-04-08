@@ -13,3 +13,6 @@
 - Estudando: CEEP-PG
 - Cursando: Desenvolvimento de Sistemas
 - Gosto de jogos Battle Royale e aventura
+
+## Meus canais
+...
